@@ -20,7 +20,7 @@ Note: This app has no test cases so I expect it may be a bit buggy.
 
 ###Running the sample
 1. Download the source code
-2. Import into Eclipse
+2. Import into Eclipse as a maven project
 3. Build and Run the app
 
 ```
